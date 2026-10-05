@@ -1,0 +1,10 @@
+{
+  "adsEnabled": true,
+  "minSupportedVersion": "1.0.0",
+  "minSupportedVersionIOS": "",
+  "minSupportedVersionAndroid": "",
+  "iosStoreUrl": "https://apps.apple.com/",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.pairwise.flags",
+  "updateTitle": "",
+  "updateMessage": ""
+}
